@@ -3,4 +3,4 @@ jogo 2d genérico
 
 ================
 
-Apenas para estudo. Quero com eses repositório, aprender mais sobre POO e os conceitos da criação de um jogo.
+Apenas para estudo. Quero com esse repositório apenas aprender mais sobre POO e os conceitos da criação de um jogo.
